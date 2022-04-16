@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoBlue</string>
+    <string-array name="employment_status">
+        <item>Select Status</item>
+        <item>Employment</item>
+        <item>Entrepreneur</item>
+    </string-array>
+</resources>
